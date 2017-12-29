@@ -1,5 +1,5 @@
 # EarlyPy
-This is my initial repo that I will use to practice Python and GitHub concepts\
+This is my initial repo that I will use to practice Python and GitHub concepts
 
 If anyone else is looking at this please ignore the noobiness as I am just picking 
 coding back up after a very logn time of working in consluting where I have to manage projects and 
