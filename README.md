@@ -6,4 +6,4 @@ coding back up after a very long time of working in consulting
 
 So here is to all those that stop by and help me on my plight back to the motherland. Cheers !!!!
 
-Many thanks in advance for all your help peoples 
+Many thanks in advance for all your help peoples !
